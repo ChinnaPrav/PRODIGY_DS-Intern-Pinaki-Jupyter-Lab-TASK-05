@@ -1,1 +1,3 @@
-# PRODIGY_DS-Intern-Pinaki-Jupyter-Lab-TASK-05
+Task 5 -
+Analyze traffic accident data to identify patterns related to road conditions, weather, and time of day. Visualize accident hotspots and contributing factors.
+
